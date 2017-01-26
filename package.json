@@ -1,0 +1,27 @@
+{
+  "name": "demo-coroutines",
+  "version": "1.0.0",
+  "description": "demo of co routines with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/demo-coroutines.git"
+  },
+  "keywords": [
+    "co",
+    "coroutines",
+    "generators"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/demo-coroutines/issues"
+  },
+  "homepage": "https://github.com/Cereceres/demo-coroutines#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
