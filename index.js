@@ -1,3 +1,5 @@
+'use strict'
+// demo using co
 const co = require('co')
 var i = 2
 let otherGen= function *  () {
